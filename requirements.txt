@@ -1,0 +1,24 @@
+annotated-types==0.7.0
+certifi==2025.7.9
+charset-normalizer==3.4.2
+-e git+https://github.com/1Doomdie1/ClashCLI.git@055ae8d7257a1c4ee68dfbcad8abaf317bf49737#egg=clashcli
+click==8.2.1
+colorama==0.4.6
+idna==3.10
+markdown-it-py==3.0.0
+mdurl==0.1.2
+prettytable==3.16.0
+PyClash @ git+https://github.com/1Doomdie1/PyClash.git@526eb7c0ba767c752777c2f82bee59fc0c922fe5
+pydantic==2.11.7
+pydantic_core==2.33.2
+Pygments==2.19.2
+python-dotenv==1.1.1
+requests==2.32.4
+rich==14.0.0
+setuptools==80.9.0
+shellingham==1.5.4
+typer==0.16.0
+typing-inspection==0.4.1
+typing_extensions==4.14.1
+urllib3==2.5.0
+wcwidth==0.2.13
